@@ -1,0 +1,70 @@
+h1 {color: rgb(255,255,255) }
+            *{
+                border: solid;
+            }
+
+            p {
+                color:white;
+                display: flex;
+                justify-content: space-evenly;
+            }
+
+            .blow {
+                background-color: crimson;
+                display: flex;
+                justify-content: space-between;
+            }
+
+            .point {
+                background-color: aqua;
+                display: flex;
+                justify-content: space-evenly;
+            }
+
+            .fur {
+                background-color: chocolate;
+            }
+
+            .r {
+                background-color: chocolate;
+            }
+
+            .t {
+                background-color: chocolate;
+            }
+
+            .pin {
+                background-color: chartreuse;
+                display: flex;
+                justify-content: space-between;
+            }
+
+            .hun {
+                background-color: chartreuse;
+                display: flex;
+                justify-content: space-between;
+            }
+
+            .thor {
+                background-color: aqua;
+                display: flex;
+                justify-content: space-evenly;
+            }
+
+            .loki {
+                background-color: chartreuse;
+                display: flex;
+                justify-content: space-between;
+            }
+
+            .iron {
+                background-color: aqua;
+                display: flex;
+                justify-content: space-evenly;
+            }
+
+            .gun {
+                background-color: chocolate;
+                display: flex;
+                justify-content: space-evenly;
+            }
